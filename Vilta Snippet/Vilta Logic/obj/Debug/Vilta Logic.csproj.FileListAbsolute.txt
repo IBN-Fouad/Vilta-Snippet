@@ -1,0 +1,18 @@
+D:\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.csproj.AssemblyReference.cache
+D:\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.csproj.CoreCompileInputs.cache
+D:\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Logic.dll
+D:\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Logic.pdb
+D:\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Database Access.dll
+D:\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Database Access.pdb
+D:\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Lo.DA3F4AAD.Up2Date
+D:\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.dll
+D:\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Logic.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Logic.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Database Access.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\bin\Debug\Vilta Database Access.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.csproj.AssemblyReference.cache
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.csproj.CoreCompileInputs.cache
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Lo.DA3F4AAD.Up2Date
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Logic\obj\Debug\Vilta Logic.pdb

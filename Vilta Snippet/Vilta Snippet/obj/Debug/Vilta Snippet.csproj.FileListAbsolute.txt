@@ -1,0 +1,224 @@
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.AssemblyReference.cache
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlAddNewSnippet.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlCopyBtn.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlEmptyMessage.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlLanguage.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlQuickAccount.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlSaveButton.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ctrlAddEditAccount.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlSnippetContainer.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlTag.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlTag_Shape2.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmAlert.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ctrlPasswordCheker.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.frmPasswordChecker.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmChoseTags.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmMain.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Forms.frmEditAccount.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmProfile.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General_Forms.frmAddEditTag.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Forms.frmQuickAccounts.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.General_Forms.frmPopup.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmPopupBackGround.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmSnippets.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Popup.frmSettingsItemPopup.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.General_Forms.frmUndoAlert.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmSignup.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Login_Page.frmLogin.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmStartPage.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Properties.Resources.resources
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.GenerateResource.cache
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.CoreCompileInputs.cache
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ProfileImage.resources
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.exe.config
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.exe
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.pdb
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.Core.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Bunifu.Licensing.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Guna.UI2.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.OidcClient.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Newtonsoft.Json.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\RestSharp.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Buffers.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.CodeDom.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Memory.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Numerics.Vectors.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Encodings.Web.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Json.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.ValueTuple.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Logic.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Database Access.dll
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Logic.pdb
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.Core.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.pdb
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.OidcClient.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Newtonsoft.Json.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\RestSharp.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Buffers.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.CodeDom.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Memory.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Numerics.Vectors.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Encodings.Web.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Json.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\System.ValueTuple.xml
+D:\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Database Access.pdb
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Sn.C5547424.Up2Date
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.exe
+D:\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.exe.config
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.exe
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Snippet.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.Core.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Bunifu.Licensing.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.OidcClient.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\RestSharp.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Buffers.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.CodeDom.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Memory.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Json.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.ValueTuple.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Logic.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Database Access.dll
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Logic.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Auth0.OidcClient.Core.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\IdentityModel.OidcClient.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\RestSharp.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Buffers.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.CodeDom.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Memory.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Text.Json.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\System.ValueTuple.xml
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\bin\Debug\Vilta Database Access.pdb
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.AssemblyReference.cache
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.exe.config
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlAddNewSnippet.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlCopyBtn.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlEmptyMessage.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlLanguage.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ProfileImage.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlQuickAccount.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlSaveButton.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ctrlAddEditAccount.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlSnippetContainer.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlTag.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.ctrlTag_Shape2.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmAlert.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.ctrlPasswordCheker.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Controls.frmPasswordChecker.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmChoseTags.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmMain.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Forms.frmEditAccount.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmProfile.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General_Forms.frmAddEditTag.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Forms.frmQuickAccounts.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.General_Forms.frmPopup.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmPopupBackGround.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmSnippets.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.Popup.frmSettingsItemPopup.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.General.General_Forms.frmUndoAlert.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmSignup.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Login_Page.frmLogin.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.frmStartPage.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta_Snippet.Properties.Resources.resources
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.GenerateResource.cache
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.csproj.CoreCompileInputs.cache
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Sn.C5547424.Up2Date
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.exe
+C:\Users\ibnfo\Downloads\Vilta Snippet\Vilta Snippet\obj\Debug\Vilta Snippet.pdb
